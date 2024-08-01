@@ -18,4 +18,8 @@ jobs:
         with:
           token: ${{ secrets.TOKEN }}
           config_timezone: America/Chicago
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+          
           
