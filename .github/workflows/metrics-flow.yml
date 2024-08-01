@@ -18,8 +18,10 @@ jobs:
         with:
           token: ${{ secrets.TOKEN }}
           config_timezone: America/Chicago
+          # notable plugin for showcasing open source contributions
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
+          plugin_notable_types: [commit, pull_request]
           
           
