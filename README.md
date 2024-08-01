@@ -2,7 +2,6 @@
 
 I'm a technical writer and video producer living in Chicago.
 
-### Metrics Information
 ![Metrics](/github-metrics.svg)
 
 <!--
