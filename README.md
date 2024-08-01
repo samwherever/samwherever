@@ -2,6 +2,8 @@
 
 I'm a technical writer and video producer living in Chicago.
 
+![Metrics](/github-metrics.svg)
+
 <!--
 **samwherever/samwherever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
