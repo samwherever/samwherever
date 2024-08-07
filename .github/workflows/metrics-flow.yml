@@ -16,8 +16,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          template: markdown
-          plugin_activity: yes
           token: ${{ secrets.TOKEN }}
           clean_workflows: failure
           # introduction plugin
@@ -27,6 +25,7 @@ jobs:
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
-         
+          # activity plugin
+          plugin_activity: yes
           
           
