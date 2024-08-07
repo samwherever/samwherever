@@ -19,9 +19,13 @@ jobs:
           token: ${{ secrets.TOKEN }}
           config_timezone: America/Chicago
           clean_workflows: failure
+          # introduction plugin
+          plugin_introduction: yes
+          plugin_introduction_title: yes
           # notable plugin for showcasing open source contributions
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
+         
           
           
