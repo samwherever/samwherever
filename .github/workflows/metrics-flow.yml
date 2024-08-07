@@ -16,8 +16,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          template: markdown
+          plugin_activity: yes
           token: ${{ secrets.TOKEN }}
-          config_timezone: America/Chicago
           clean_workflows: failure
           # introduction plugin
           plugin_introduction: yes
