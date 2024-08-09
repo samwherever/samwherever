@@ -29,7 +29,5 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_filter: pr
-          # fortune plugin
-          plugin_fortune: yes
           
           
