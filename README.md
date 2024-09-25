@@ -1,4 +1,6 @@
-Tehnical writer, beach walker, Windy City wanderer.
+## About
+
+Technical writer, beach walker, Windy City wanderer.
 
 ## Links
 
