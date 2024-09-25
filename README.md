@@ -1,3 +1,5 @@
+Tehnical writer, beach walker, Windy City wanderer.
+
 ## Links
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sam%20Allen-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelcallen/)](https://www.linkedin.com/in/samuelcallen/)
