@@ -8,3 +8,8 @@ Technical writer, beach walker, Windy City wanderer.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuelcallen/)](https://www.linkedin.com/in/samuelcallen/)
 [![Resume](https://img.shields.io/badge/Resumé-339c5f/)](https://samallen.pro/resume/)
 [![Portfolio link](https://img.shields.io/badge/Documentation_Portfolio-339c5e)](https://samallen.pro/portfolio/api_documentation/)
+
+# Overview
+
+![](https://raw.githubusercontent.com/samwherever/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/samwherever/github-stats/master/generated/overview.svg#gh-light-mode-only)
