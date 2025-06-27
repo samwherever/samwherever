@@ -11,5 +11,4 @@ Technical writer, beach walker, Windy City wanderer.
 
 # Overview
 
-![](https://raw.githubusercontent.com/samwherever/expert-octo-barnacle/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/samwherever/expert-octo-barnacle/master/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/samwherever/expert-octo-barnacle/blob/master/generated/overview.svg)
