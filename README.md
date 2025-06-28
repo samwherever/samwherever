@@ -10,4 +10,4 @@ Technical writer, beach walker, Windy City wanderer.
 [![Portfolio link](https://img.shields.io/badge/Documentation_Portfolio-339c5e)](https://samallen.pro/portfolio/api_documentation/)
 
 ## Stats
-[![Sams GitHub stats](https://github-readme-stats.vercel.app/api?username=samwherever)](https://github.com/anuraghazra/github-readme-stats)
+[![Sams GitHub stats](https://github-readme-stats.vercel.app/api?username=samwherever&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
