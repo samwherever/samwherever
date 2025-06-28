@@ -9,6 +9,4 @@ Technical writer, beach walker, Windy City wanderer.
 [![Resume](https://img.shields.io/badge/Resumé-339c5f/)](https://samallen.pro/resume/)
 [![Portfolio link](https://img.shields.io/badge/Documentation_Portfolio-339c5e)](https://samallen.pro/portfolio/api_documentation/)
 
-# Overview
-
-![](https://github.com/samwherever/expert-octo-barnacle/blob/master/generated/overview.svg)
+## Stats
